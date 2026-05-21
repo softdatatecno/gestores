@@ -1,0 +1,9 @@
+{
+  "name": "gestores",
+  "version": "1.0.0",
+  "description": "App de Gestores",
+  "scripts": {
+    "build": "echo 'Building...'",
+    "start": "echo 'Starting...'"
+  }
+}
